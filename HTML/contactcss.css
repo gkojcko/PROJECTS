@@ -1,0 +1,49 @@
+body {
+    background-image: url("photos/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  form {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    font-size: 20px;
+    padding: 5px;
+    border-style:dotted;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-right:60px;
+  }
+  
+  input[type="text"],
+  textarea{
+    margin-right:60px;
+  }
+
+  input[type="message"],
+  textarea{
+    margin-left:110px;
+  }
+  
+  input[type="submit"] {
+    font-size: 20px;
+    margin-right:30px;
+    color:black;
+    cursor:pointer;
+
+  }

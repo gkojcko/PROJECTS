@@ -13,16 +13,16 @@ As part of our studies in the university of IEK AKMI, we were assigned a project
 
 The first thing we did, is write the HTML code. In other words the foundations of our webpage. In the HTML code we included the website title , our pictures and the paragraphs containing our mangaka team  information. Then we carefully splitted all the code into divisions (<div> tag), so as to make the HTML code more managable by the CSS code. HTML  is the foundation of our site, and without the CSS code it would look something like this:
 
-![App Screenshot](nocss.png)
+![App Screenshot](nocss.PNG)
 
 CSS would later be added in order to make some vital visual adjustments.
 
  
 - THE CSS CODE
 After writing the HTML code , it was time to make some visual adjustments. Thanks to CSS, the website got it's own identity, colours and style! But everything comes with a price. In the early stages of the development we thought that HTML would be the tricky part, if only we knew what was about to happen in the CSS part. We spent hours and hours trying to adjust the elements in the right place of the site, but moving an element would cause something else move with it as well, and so on. However after hours of trying and hours of adjustments we managed to create our Mangkaka Website, and now we can take part in the ComicDom.
-![App Screenshot](website1.png)
-![App Screenshot](website2.png)
-![App Screenshot](website3.png)
+![App Screenshot](website1.PNG)
+![App Screenshot](website2.PNG)
+![App Screenshot](website3.PNG)
 
 
 - THINGS WE ARE PROUD OF 

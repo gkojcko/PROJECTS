@@ -19,6 +19,7 @@ CSS would later be added in order to make some vital visual adjustments.
 
  
 - THE CSS CODE
+ 
 After writing the HTML code , it was time to make some visual adjustments. Thanks to CSS, the website got it's own identity, colours and style! But everything comes with a price. In the early stages of the development we thought that HTML would be the tricky part, if only we knew what was about to happen in the CSS part. We spent hours and hours trying to adjust the elements in the right place of the site, but moving an element would cause something else move with it as well, and so on. However after hours of trying and hours of adjustments we managed to create our Mangkaka Website, and now we can take part in the ComicDom.
 ![App Screenshot](website1.PNG)
 ![App Screenshot](website2.PNG)

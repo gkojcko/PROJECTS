@@ -11,7 +11,7 @@ This is assignment is an application that has a user intreface, which prompts th
 ## BREAKING DEEPER INTO THE FUNCTIONS
 
 - USER INTERFACE
-![App Screenshot](app_screenshots/user_interface)
+![App Screenshot](app_screenshots/user_interface.PNG)
  Starting with the interface the user gets prompted to either press 'A' or 'B'. Pressing option 'A' allows him to enter a decimal IP so it can be converted to binary and then it calls the appropriate function. Pressing 'B' allows him to convert a binary IP to a decimal IP by calling the appropriate function as well. If the user accidentally makes a typo, the code enters into a while loop and it continuously prompting the user to enter either A or B. The whie loop will keep until the user types the correct options. Scanf function stores the user input in four different octets, each one represented by four ints. 
 
 

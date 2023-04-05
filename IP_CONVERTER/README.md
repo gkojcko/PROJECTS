@@ -23,6 +23,9 @@ This is assignment is an application that has a user intreface, which prompts th
 
 - Decimal to Binary function
 
+
+![App Screenshot](app_screenshots/dec_bin.PNG)
+
 In this function 4 arrays that store the binary numbers are created, these arrays will store the output from the decimal conversion, and store them in arrays so as the numbers can be easily manipulated, and printed from the Most Significant Bit to the Least Significant Bit.
 
 Modulus 2 (%2) is performed on all of the fouroctet, and the output is saved on the binary arrays. This is done because we want to extract 1's and 0's. Modulus 2 returns 0 if the number is even, 1 if odd. Then octet is divided by 2 and repeats until the octets eventually be zero.
@@ -30,7 +33,10 @@ Modulus 2 (%2) is performed on all of the fouroctet, and the output is saved on 
 A second for loop is now created. What this for loop does is it prints the bits in the correct binary represantation (MSB->LSB). It starts from the last index and prints the numbers backwards until index 0 is reached. 
 
 
+
 - Binary to Decimal function
+
+![App Screenshot](app_screenshots/bin_dec.PNG)
 
 In this function 4 parameters are assigned that will hold the the binary numbers. All of the decimal integers are set to 0 since we do not want them to affect our math operations. 4 while loops are created that will keep running until the binaryip integer turns to 0. Modulus 10 (%10) this time is extracting the last digit from the binary ip intgers, and it stores it in the remainder integer. The remainder is then multiplied by its weight, which it will be doubled in each iteration (but it will be set to 1 once the loop ends.). The result is then stored to the decimal integers. And the binaryip is divided by 10. This will keep the loop running until it reaches 0. 
 

@@ -1,4 +1,4 @@
-#include <stdio.h>>
+#include <stdio.h>
 #include <stdlib.h>
 
 void dec_to_bin(int octet1, int octet2, int octet3, int octet4); //initializing both functions
@@ -112,3 +112,6 @@ void bin_to_dec(int binaryip1, int binaryip2, int binaryip3, int binaryip4) {
   weight = 1;
   printf("The decimal represenation of your binary IP adress is: ");
   printf("%d.%d.%d.%d", decimal1, decimal2, decimal3, decimal4);
+}
+  
+  
